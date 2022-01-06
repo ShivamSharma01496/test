@@ -12,7 +12,7 @@ Werkzeug==1.0.1
 alembic==1.4.2
 amqp==2.5.2
 billiard==3.6.3.0
-celery==4.4.2
+celery==5.2.2
 click==7.1.2
 dnspython==1.16.0
 email-validator==1.1.0
